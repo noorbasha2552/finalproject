@@ -67,9 +67,7 @@ public class TestBase {
 			}
 			
 			System.out.println(OR.getProperty("bmlbtn"));
-			Logger log =Logger.getLogger(TestBase.class.getName());
-			PropertyConfigurator.configure(".//src//test//resources//properties//log4j/properties");
-			
+					
 		
 		if(config.getProperty("browser").equals("chrome")) {
 			System.setProperty("webdriver.chrome.driver",System.getProperty("user.dir")+"\\src\\test\\resources\\exe\\chromedriver.exe");
