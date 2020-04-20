@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 1, Errors: 0, Skipped: 9, Time elapsed: 13.675 s <<< FAILURE! - in TestSuite
+com.w2a.testcases.OpenAccount.setUp  Time elapsed: 10.101 s  <<< FAILURE!
+java.lang.NullPointerException
+

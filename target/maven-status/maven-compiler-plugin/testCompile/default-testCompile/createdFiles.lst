@@ -1,0 +1,10 @@
+com\w2a\utilities\Screenshot.class
+com\w2a\testcases\OpenAccount.class
+com\w2a\testcases\AddCust.class
+com\w2a\utilities\ExcelReader.class
+com\w2a\listeners\CustomListeners.class
+com\w2a\rough\TestProperties.class
+com\w2a\utilities\ExtentReport.class
+com\w2a\rough\runmode.class
+com\w2a\base\TestBase.class
+com\w2a\testcases\LoginTest.class
